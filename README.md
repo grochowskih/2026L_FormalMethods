@@ -1,2 +1,94 @@
-# 2026L_FormalMethods
-Metody formalne i weryfikacja protokołów kryptograficznych. 2026L. MiNI PW.
+# Metody formalne i weryfikacja protokołów kryptograficznych
+Materiały do zajęć z przedmiotu *Metody formalne i weryfikacja protokołów kryptograficznych*. 
+
+Przedmiot prowadzony jest na Wydziale Matematyki i Nauk Informacyjnych Politechniki Warszawskiej, na studiach magisterskich, na kierunku Matematyka (specjalność: Matematyka w cyberbezpieczeństwie), w semestrze letnim 2025/2026.
+
+W ramach przedmiotu prowadzone są:
+- wykład, czwartki 14:15 - 16:00, sala 312 (gmach MiNI PW) [@grochowskih](https://github.com/grochowskih),
+- laboratoria, czwartki, 18:15 - 20:00, sala 217 (gmach MiNI PW) [@grochowskih](https://github.com/grochowskih).
+
+## Terminy kolokwiów
+- Kolokwium 1: 16.04.2026 (Ósme zajęcia - Lab), 18:15.
+- Kolokwium 2: 11.06.2026 (Piętnaste zajęcia - Lab), 18:15.
+
+## Kalendarz
+
+<table><thead>
+  <tr>
+    <th>Data</th>
+    <th>Rodzaj</th>
+    <th>Temat</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan="1">25.02</td>
+    <td>Wykład</td>
+    <td>Czym są metody formalne? Po co? Czego będziemy się uczyć?</td>
+  </tr>
+  <tr>
+    <td rowspan="2">04.03 (<b>Środa</b>)</td>
+    <td>Wykład (<b>8:15, 329</b>)</td>
+    <td>Wprowadzenie do teorii typów i składni Rocq</td>
+  </tr>
+  <tr>
+    <td>Laby (<b>14:15, 217</b>)</td>
+    <td>Zapoznanie ze składnią Rocq. Definicje podstawowych typów i funkcji. Ewaluacja wyrażeń. Sprawdzanie typów.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">12.03</td>
+    <td>Wykład</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Laby</td>
+    <td></td>
+  </tr>
+</tbody></table>
+
+## Sposób oceny 
+
+Do uzyskania łącznie jest 100 punktów w następujący sposób:
+- Kolokwium 1 (30 punktów),
+- Kolokwium 2 (30 punktów), 
+- Projekt (40 punktów),
+- Aktywność (10 punktów).
+
+Końcowy wynik punktowy to suma uzyskanych punktów (przy czym, jeśli przekracza 100 punktów, to jest ona równa 100 punktom).
+
+Warunkami koniecznymi uzyskania zaliczenia są:
+- uzyskanie co najmniej 15 punktów z projektu,
+- uzyskanie sumarycznie z obu kolokwiów co najmniej 25 punktów,
+- uzyskanie łącznie więcej niż 50 punktów z przedmiotu.
+
+<table><thead>
+  <tr>
+    <th>Przedział punktów</th>
+    <th>Ocena</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>[0, 50]</td>
+    <td>2.0</td>
+  </tr>
+  <tr>
+    <td>[51, 60]</td>
+    <td>3.0</td>
+  </tr>
+  <tr>
+    <td>[61, 70]</td>
+    <td>3.5</td>
+  </tr>
+  <tr>
+    <td>[71, 80]</td>
+    <td>4.0</td>
+  </tr>
+  <tr>
+    <td>[81, 90]</td>
+    <td>4.5</td>
+  </tr>
+  <tr>
+    <td>[91, 100]</td>
+    <td>5.0</td>
+  </tr>
+</tbody></table>
+
