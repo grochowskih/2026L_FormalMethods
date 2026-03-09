@@ -4,8 +4,8 @@ Materiały do zajęć z przedmiotu *Metody formalne i weryfikacja protokołów k
 Przedmiot prowadzony jest na Wydziale Matematyki i Nauk Informacyjnych Politechniki Warszawskiej, na studiach magisterskich, na kierunku Matematyka (specjalność: Matematyka w cyberbezpieczeństwie), w semestrze letnim 2025/2026.
 
 W ramach przedmiotu prowadzone są:
-- wykład, czwartki, 14:15 - 16:00, sala 312 (gmach MiNI PW) [@grochowskih](https://github.com/grochowskih),
-- laboratoria, czwartki, 18:15 - 20:00, sala 217 (gmach MiNI PW) [@grochowskih](https://github.com/grochowskih).
+- wykład, czwartki, 14:15 - 16:00, sala 431 (gmach MiNI PW) [@grochowskih](https://github.com/grochowskih),
+- laboratoria, czwartki, 18:15 - 20:00, sala 218 (gmach MiNI PW) [@grochowskih](https://github.com/grochowskih).
 
 ## Terminy kolokwiów
 - Kolokwium 1: 16.04.2026 (Ósme zajęcia - Lab), 18:15.
