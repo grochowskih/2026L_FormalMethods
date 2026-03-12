@@ -28,7 +28,7 @@ W ramach przedmiotu prowadzone są:
   <tr>
     <td rowspan="2">04.03 (<b>Środa</b>)</td>
     <td>Wykład (<b>8:15, 329</b>)</td>
-    <td>Wprowadzenie do teorii typów i składni Rocq</td>
+    <td>Wprowadzenie do teorii typów i składni Rocq.</td>
   </tr>
   <tr>
     <td>Laby (<b>14:15, 217</b>)</td>
@@ -37,11 +37,11 @@ W ramach przedmiotu prowadzone są:
   <tr>
     <td rowspan="2">12.03</td>
     <td>Wykład</td>
-    <td></td>
+    <td>Wprowadzenie do dowodzenia w Rocq. Język taktyk LTac. Cele z wiedzą, stany oraz etykietowane systemy przejść.</td>
   </tr>
   <tr>
     <td>Laby</td>
-    <td></td>
+    <td>Wprowadzenie do dowodów w Rocq i podstawowe taktyki.</td>
   </tr>
 </tbody></table>
 
