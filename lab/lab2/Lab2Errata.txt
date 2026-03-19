@@ -1,0 +1,1 @@
+W najnowszej wersji Rocq doszło do uporządkowania struktury katalogów i bibliotek. W związku z tym, w Zadanku 7 chcemy zaimportować odpowiednią bibliotekę przy pomocy: Require Import Stdlib.Arith.PeanoNat.
