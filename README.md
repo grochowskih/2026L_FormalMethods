@@ -43,6 +43,15 @@ W ramach przedmiotu prowadzone są:
     <td>Laby</td>
     <td>Wprowadzenie do dowodów w Rocq i podstawowe taktyki.</td>
   </tr>
+  <tr>
+    <td rowspan="2">19.03</td>
+    <td>Wykład</td>
+    <td>Wprowadzenie do dowodów indukcyjnych dla liczb naturalnych. Przejście w LTS opate o taktykę induction. Taktyka assert.</td>
+  </tr>
+  <tr>
+    <td>Laby</td>
+    <td>Dowody indukcyjne dla liczb naturalnych. Przykłady zastosowań taktyki assert. Przypomnienie z definiowania funkcji rekurencyjnych.</td>
+  </tr>
 </tbody></table>
 
 ## Sposób oceny 
