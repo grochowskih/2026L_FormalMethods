@@ -52,6 +52,42 @@ W ramach przedmiotu prowadzone są:
     <td>Laby</td>
     <td>Dowody indukcyjne dla liczb naturalnych. Przykłady zastosowań taktyki assert. Przypomnienie z definiowania funkcji rekurencyjnych.</td>
   </tr>
+  <tr>
+    <td rowspan="2">26.03</td>
+    <td>Wykład</td>
+    <td>Typy indukcyjne, typ listowy, struktury drzewiaste. Typy modelujące liczby rzeczywiste. Idea przekrojów Dedekinda.</td>
+  </tr>
+  <tr>
+    <td>Laby</td>
+    <td>Dowody indukcyjne dla typu listowego, definiowanie typów modelujących drzewa.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">02.04</td>
+    <td>Wykład</td>
+    <td>Typy produktowe i sumy rozłącznej. Modelowanie spójników logicznych. Taktyki split, left, right, exists.</td>
+  </tr>
+  <tr>
+    <td>Laby (08.04)</td>
+    <td>Dowody z alternatywą i koniunkcją.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">09.04</td>
+    <td>Wykład</td>
+    <td>Sposoby modelowania relacji. Modelowanie relacji przy pomocy typów i konstruktorów.</td>
+  </tr>
+  <tr>
+    <td>Laby</td>
+    <td>Relacje równoważności.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">16.04</td>
+    <td>Wykład</td>
+    <td>Omówienie zasad projektu. Rekurencja ogonowa.</td>
+  </tr>
+  <tr>
+    <td>Laby</td>
+    <td>Kolokwium</td>
+  </tr>
 </tbody></table>
 
 ## Sposób oceny 
