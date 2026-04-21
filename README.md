@@ -86,7 +86,7 @@ W ramach przedmiotu prowadzone są:
   </tr>
   <tr>
     <td>Laby</td>
-    <td>Kolokwium</td>
+    <td>Kolokwium.</td>
   </tr>
 </tbody></table>
 
