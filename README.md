@@ -88,6 +88,15 @@ W ramach przedmiotu prowadzone są:
     <td>Laby</td>
     <td>Kolokwium.</td>
   </tr>
+  <tr>
+    <td rowspan="2">23.04</td>
+    <td>Wykład</td>
+    <td>Omówienie kolokwium. Wprowadzenie do problemu SAT. Postać CNF i transformacja do niej. Problemy 3-SAT i 2-SAT.</td>
+  </tr>
+  <tr>
+    <td>Laby</td>
+    <td>GIT.</td>
+  </tr>
 </tbody></table>
 
 ## Sposób oceny 
