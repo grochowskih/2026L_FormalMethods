@@ -97,6 +97,15 @@ W ramach przedmiotu prowadzone są:
     <td>Laby</td>
     <td>GIT.</td>
   </tr>
+  <tr>
+    <td rowspan="2">30.04</td>
+    <td>Wykład</td>
+    <td>Algorytmy do problemu SAT. Algorytm APT dla 2-SAT. Idea wnioskowania klauzul. Algorytm CDCL.</td>
+  </tr>
+  <tr>
+    <td>Laby (29.04)</td>
+    <td>Transformacja do postaci CNF. Wartościowania. Format dimacs.</td>
+  </tr>
 </tbody></table>
 
 ## Sposób oceny 
