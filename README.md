@@ -100,11 +100,20 @@ W ramach przedmiotu prowadzone są:
   <tr>
     <td rowspan="2">30.04</td>
     <td>Wykład</td>
-    <td>Algorytmy do problemu SAT. Algorytm APT dla 2-SAT. Idea wnioskowania klauzul. Algorytm CDCL.</td>
+    <td>Algorytmy do problemu SAT. Algorytm APT dla 2-SAT. Wnioskowanie klauzul. Propagacja jednostkowa.</td>
   </tr>
   <tr>
     <td>Laby (29.04)</td>
     <td>Transformacja do postaci CNF. Wartościowania. Format dimacs.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">07.05</td>
+    <td>Wykład</td>
+    <td>Algorytm CDCL. Modelowanie problemów kombinatorycznych. Kolorowania grafów.</td>
+  </tr>
+  <tr>
+    <td>Laby (29.04)</td>
+    <td>Modelowanie problemów kombinatorycznych.</td>
   </tr>
 </tbody></table>
 
