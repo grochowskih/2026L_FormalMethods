@@ -117,12 +117,12 @@ W ramach przedmiotu prowadzone są:
   </tr>
   <tr>
     <td rowspan="2">14.05</td>
-    <td>Wykład (45 min)</td>
-    <td>Wybrane SAT-Solvery - Glucose, CaDiCal. Przekazanie wejścia w formacie dimacs. Interpretacja wyjścia.</td>
+    <td>Wykład (<b>45 min</b>)</td>
+    <td>Wybrane SAT-Solvery - Glucose, CaDiCal. Przekazanie wejścia w formacie dimacs. Interpretacja wyjścia. Druga godzina: Godziny Rektorskie.</td>
   </tr>
   <tr>
     <td>Laby</td>
-    <td>Godziny rektorskie.</td>
+    <td>Godziny Rektorskie.</td>
   </tr>
 </tbody></table>
 
