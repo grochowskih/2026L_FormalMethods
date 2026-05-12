@@ -115,6 +115,15 @@ W ramach przedmiotu prowadzone są:
     <td>Laby</td>
     <td>Modelowanie problemów kombinatorycznych.</td>
   </tr>
+  <tr>
+    <td rowspan="2">14.05</td>
+    <td>Wykład (45 min)</td>
+    <td>Wybrane SAT-Solvery - Glucose, CaDiCal. Przekazanie wejścia w formacie dimacs. Interpretacja wyjścia.</td>
+  </tr>
+  <tr>
+    <td>Laby</td>
+    <td>Godziny rektorskie.</td>
+  </tr>
 </tbody></table>
 
 ## Sposób oceny 
