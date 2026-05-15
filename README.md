@@ -127,7 +127,7 @@ W ramach przedmiotu prowadzone są:
   <tr>
     <td rowspan="2">21.05</td>
     <td>Wykład</td>
-    <td>Niespełnialność formuł logicznych. Generowanie dowodów niespełnialności. Rezoluce. Dowody klauzulowe i rezolucyjne. Weryfikacja dowodów, drat-trim.</td>
+    <td>Niespełnialność formuł logicznych. Generowanie dowodów niespełnialności. Rezolucje. Dowody klauzulowe i rezolucyjne. Weryfikacja dowodów, drat-trim.</td>
   </tr>
   <tr>
     <td>Laby</td>
