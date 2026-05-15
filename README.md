@@ -124,6 +124,15 @@ W ramach przedmiotu prowadzone są:
     <td>Laby</td>
     <td>Godziny Rektorskie.</td>
   </tr>
+  <tr>
+    <td rowspan="2">21.05</td>
+    <td>Wykład</td>
+    <td>Niespełnialność formuł logicznych. Generowanie dowodów niespełnialności. Rezoluce. Dowody klauzulowe i rezolucyjne. Weryfikacja dowodów, drat-trim.</td>
+  </tr>
+  <tr>
+    <td>Laby</td>
+    <td>Python: Zapoznanie z wbudowanymi bibliotekami do analizy formuł logicznych i wbudowanymi SAT-Solverami. Możliwości, funkcjonalności, problemy.</td>
+  </tr>
 </tbody></table>
 
 ## Sposób oceny 

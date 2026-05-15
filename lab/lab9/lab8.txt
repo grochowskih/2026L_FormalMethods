@@ -1,0 +1,1 @@
+Zajęcia tablicowe - przekształcenie formuł do równoważnych postaci CNF. Zapis formuły w postaci DIMACS.
